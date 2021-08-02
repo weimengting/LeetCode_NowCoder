@@ -8,12 +8,12 @@
 
 |   [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)   |               [java](./leetcode/1.two_sum.md)                | Easy |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [java](D:\java_projects\leec\LeetCode_NowCoder\leetcode\2.add_two_numbers.md) |      |
-| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [java](D:\java_projects\leec\LeetCode_NowCoder\leetcode\3.LongestSubstringWithoutRepeatingCharacters.md) |      |
-| [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [java](D:\java_projects\leec\LeetCode_NowCoder\leetcode\4.MedianofTwoSortedArrays.md) |      |
-| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [java](D:\java_projects\leec\LeetCode_NowCoder\leetcode\5.LongestPalindromicSubstring.md) |      |
-| [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [java]("D:\java_projects\leec\LeetCode_NowCoder\leetcode\6.ZigZagConversion.md") |      |
-| [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [java]("D:\java_projects\leec\LeetCode_NowCoder\leetcode\7. Reverse Integer.java") |      |
+| [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |           [java](.\leetcode\2.add_two_numbers.md)            |      |
+| [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [java](.\leetcode\3.LongestSubstringWithoutRepeatingCharacters.md) |      |
+| [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |       [java](.\leetcode\4.MedianofTwoSortedArrays.md)        |      |
+| [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) |     [java](.\leetcode\5.LongestPalindromicSubstring.md)      |      |
+| [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) |          [java](.\leetcode\6.ZigZagConversion.md")           |      |
+| [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) |         [java](.\leetcode\7. Reverse Integer.java")          |      |
 | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) |                                                              |      |
 | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) |                                                              |      |
 | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) |                          [python]()                          |      |
