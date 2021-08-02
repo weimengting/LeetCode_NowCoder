@@ -13,10 +13,10 @@
 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |       [java](./leetcode/4.MedianofTwoSortedArrays.md)        |      |
 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) |     [java](./leetcode/5.LongestPalindromicSubstring.md)      |      |
 | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) |          [java](./leetcode/6.ZigZagConversion.md")           |      |
-| [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) |         [java](./leetcode/7. Reverse Integer.java")          |      |
-| [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) |                                                              |      |
-| [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) |                                                              |      |
-| [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) |                          [python]()                          |      |
+| [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) |          [java](./leetcode/7. Reverse Integer.java)          |      |
+| [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) |           [java](./leetcode/8.字符串转换整数.java)           |      |
+| [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) |               [java](./leetcode/9.回文数.java)               |      |
+| [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) |          [python](./leetcode/10.正则表达式匹配.py)           |      |
 | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) |                                                              |      |
 | [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) |                                                              |      |
 | [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) |                                                              |      |
