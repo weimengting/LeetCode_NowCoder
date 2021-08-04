@@ -1,12 +1,12 @@
 # LeetCode & 牛客网刷题
 
-* 善用API，不要重复造轮子🙄
+* 善用API，不要重复造轮子
 * practice makes perfect
-* 人生苦短，要用魔法打败魔法🧐
+* 人生苦短，要用魔法打败魔法
 
 ## LeetCode
 
-|                              🤑                               |                              😲                               |                              😁                               |                    😶                    |
+|                              🤑                               |                              😲                               |                              😁                               |                    🧐                    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------: |
 |   [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)   |               [java](./leetcode/1.two_sum.md)                | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) |  [java](./leetcode/31.下一个排列.java)  |
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) |           [java](./leetcode/2.add_two_numbers.md)            | [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [java](./leetcode/32.最长有效括号.java) |
