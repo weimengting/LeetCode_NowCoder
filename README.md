@@ -1,4 +1,4 @@
-# LeetCode & 牛客网刷题
+# LeetCode刷题
 
 * 善用API，不要重复造轮子
 * practice makes perfect
@@ -27,14 +27,20 @@
 |    [18. 四数之和](https://leetcode-cn.com/problems/4sum/)    |             [java](./leetcode/18.四数之和.java)              | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) |             [java](./leetcode/48.旋转图像.java)              |
 | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |      [java](./leetcode/19.删除链表的倒数第N个结点.java)      | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |          [java](./leetcode/49.字母异位词分组.java)           |
 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [java](./leetcode/20.有效的括号.java)  [python](./leetcode/20.valid_par.py) |  [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)   |                [java](./leetcode/50.Pow.java)                |
-| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |         [java](./leetcode/21.合并两个有序链表.java)          |                                                              |                                                              |
-| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) |             [java](./leetcode/22.括号生成.java)              |                                                              |                                                              |
-| [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |          [java](./leetcode/23.合并K个升序链表.java)          |                                                              |                                                              |
-| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) |       [java](./leetcode/24.两两交换链表中的节点.java)        |                                                              |                                                              |
-| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |          [java](./leetcode/25.K个一组翻转链表.java)          |                                                              |                                                              |
-| [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |      [java](./leetcode/26.删除有序数组中的重复项.java)       |                                                              |                                                              |
-| [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) |             [java](./leetcode/27.移除元素.java)              |                                                              |                                                              |
-| [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) |           [java](./leetcode/28.实现strStr().java)            |                                                              |                                                              |
-| [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) |             [java](./leetcode/29.两数相除.java)              |                                                              |                                                              |
-| [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) |        [java](./leetcode/30.串联所有单词的子串.java)         |                                                              |                                                              |
+| [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |         [java](./leetcode/21.合并两个有序链表.java)          |   [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)   |               [java](./leetcode/51.N皇后.java)               |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) |             [java](./leetcode/22.括号生成.java)              | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) |              [java](./leetcode/52.N皇后II.java)              |
+| [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |          [java](./leetcode/23.合并K个升序链表.java)          | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |            [java](./leetcode/53.最大子序和.java)             |
+| [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) |       [java](./leetcode/24.两两交换链表中的节点.java)        | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) |             [java](./leetcode/54.螺旋矩阵.java)              |
+| [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |          [java](./leetcode/25.K个一组翻转链表.java)          | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  |             [java](./leetcode/55.跳跃游戏.java)              |
+| [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |      [java](./leetcode/26.删除有序数组中的重复项.java)       | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) |             [java](./leetcode/56.合并区间.java)              |
+| [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) |             [java](./leetcode/27.移除元素.java)              | [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) |             [java](./leetcode/57.插入区间.java)              |
+| [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) |           [java](./leetcode/28.实现strStr().java)            | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) |        [java](./leetcode/58.最后一个单词的长度.java)         |
+| [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) |             [java](./leetcode/29.两数相除.java)              | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) |            [java](./leetcode/59.螺旋矩阵II.java)             |
+| [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) |        [java](./leetcode/30.串联所有单词的子串.java)         | [60. 排列序列](https://leetcode-cn.com/problems/permutation-sequence/) |             [java](./leetcode/60.排列序列.java)              |
+
+|  😁   |  🤣   |  😄   |  😉   |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
 
